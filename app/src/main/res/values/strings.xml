@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Meteb Almadi - Midterm-1, 2022</string>
+    <string name="gomain">Go to main activity</string>
+    <string name="act2">You are in Activity 2</string>
+    <string name="act1">You are in Activity 1</string>
+    <string name="act3">You are in Activity 3</string>
+    <string name="gogrid">Go to Activity 2</string>
+    <string name="Goact3">Go to Activity 3</string>
+    <string name="text">You click on the second item which is Magnificent Mile</string>
+</resources>
